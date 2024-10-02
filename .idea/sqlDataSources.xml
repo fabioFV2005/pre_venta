@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="03849c16-4c36-4080-b85b-ecb05de001e6" name="pre_venta@localhost Mapping">
+      <data-sources db="7cec191c-df0f-44f3-bbef-e269aa1d816d" ddl="6638abd4-4b0b-448f-875e-cd03ed52e51b" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="6638abd4-4b0b-448f-875e-cd03ed52e51b" />
+          <option name="name" value="pre_venta@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array />
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
